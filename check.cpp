@@ -1,3 +1,4 @@
+/// WTH ARE YOU DOING?!
 //#include <iostream>
 //using namespace std;
 // 
@@ -10,6 +11,7 @@
 //	{
 //		cout<<"insert hour minute secound "<<endl;
 //		cin >> hour >> minute >>secound;
+    
 //	}
 //	void fixtime()
 //	{
